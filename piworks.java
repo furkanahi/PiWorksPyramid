@@ -56,12 +56,12 @@ public class piworks {
                     } else return tri[i][j];
             }
 
-            for (int k = 0; k < n; k++) {
+            /*for (int k = 0; k < n; k++) {
                 for (int m = 0; m <= k; m++)
                     System.out.print(tri[k][m] + " ");
                 System.out.println();
             }
-            System.out.println("------------------------");
+            System.out.println("------------------------");*/
         }
 
         // return the top element which stores the maximum sum
